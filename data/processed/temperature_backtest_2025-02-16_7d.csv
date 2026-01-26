@@ -1,0 +1,3 @@
+date,model,no_temp_eur,with_temp_eur,delta_eur,verdict
+2025-02-16,RF,17.64,18.14,0.49,worse
+2025-02-16,XGB,19.86,16.6,-3.27,better
